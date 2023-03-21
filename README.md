@@ -1,6 +1,9 @@
 # ArchivesSpace DST Patches
 
 ## Note
+
+For use with ArchivesSpace 3.3.1 *ONLY*
+
 These files have *not* been tested in a production environment. Use at your own risk.
 
 Includes recompiled common.jar, backend.war and updated database migration script (migrate_db.rb)
